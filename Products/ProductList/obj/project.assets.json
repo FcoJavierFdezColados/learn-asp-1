@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programar\\Cursos\\udemy\\C#\\Pavol\\Asp.net\\Product-Crud\\Products\\ProductList\\ProductList.csproj",
+      "projectUniqueName": "C:\\Programar\\Cursos\\udemy\\C#\\Pavol\\Asp.net\\Projects\\Products\\ProductList\\ProductList.csproj",
       "projectName": "ProductList",
-      "projectPath": "C:\\Programar\\Cursos\\udemy\\C#\\Pavol\\Asp.net\\Product-Crud\\Products\\ProductList\\ProductList.csproj",
+      "projectPath": "C:\\Programar\\Cursos\\udemy\\C#\\Pavol\\Asp.net\\Projects\\Products\\ProductList\\ProductList.csproj",
       "packagesPath": "C:\\Users\\Javier\\.nuget\\packages\\",
-      "outputPath": "C:\\Programar\\Cursos\\udemy\\C#\\Pavol\\Asp.net\\Product-Crud\\Products\\ProductList\\obj\\",
+      "outputPath": "C:\\Programar\\Cursos\\udemy\\C#\\Pavol\\Asp.net\\Projects\\Products\\ProductList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
